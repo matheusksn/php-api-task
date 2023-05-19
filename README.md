@@ -1,4 +1,6 @@
 API de tarefas com Redis
+
+
 Este é um projeto simples que implementa uma API de tarefas utilizando PHP e Redis como banco de dados. A API permite listar todas as tarefas, criar novas tarefas, obter os detalhes de uma tarefa específica, atualizar tarefas existentes e excluir tarefas.
 
 Pré-requisitos
